@@ -1,0 +1,30 @@
+*{
+    margin: 0 0 0 0;
+}
+
+.top-section{
+    background-color: #E4F9F5;
+    text-align: center;
+    position: relative;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 250px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+}
+
+.middle-section{
+    background-color: lightgray;
+}
+
